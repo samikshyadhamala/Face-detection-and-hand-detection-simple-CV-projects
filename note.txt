@@ -1,4 +1,4 @@
-#open cv day 1
+#
 virtual env 
 python3 -m venv venv
 source myvenv/bin/activate
